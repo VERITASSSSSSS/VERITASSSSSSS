@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning c++ and ux/ui.
 - 💞️ I’m looking forward to making programming buddies.
-- 📫 How to reach me discord: veritas#6652.
+- 📫 How to reach me on discord: VeritasADuck#0537.
 
 <!---
 VERITASSSSSSS/VERITASSSSSSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
